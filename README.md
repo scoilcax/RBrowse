@@ -9,8 +9,7 @@ Lightweight browser written in HTML [Pre Alpha]
 - Create an icon
 - Mac OS and Linux builds (I would compile them now but as it is early into the project I dont see this necessary)
 
-## Build to run on other OS
-
+## Build to run on Mac/Linux/Windows
 1. Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
 
 1. Open your prefered terminal in the install location and run
