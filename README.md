@@ -1,5 +1,5 @@
-# HTMLBrowse
-Lightweight browser written in HTML [Pre Alpha]
+# HTMLBrowse [Pre Alpha]
+Lightweight browser written in HTML 
 ![image](https://github.com/scoilcax/HTMLBrowse/assets/102550814/2a2f528b-5397-4f8e-9b79-82954f5e5e55)
 [Web Demo](https://scoilcax.github.io/HTMLBrowse/) (Websites will not load)
 
