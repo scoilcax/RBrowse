@@ -10,6 +10,9 @@ Lightweight browser written in HTML
 - Fix keyboard shortcuts
 - Create an icon
 
+## Known Issues
+- Google login will not work
+
 ## Windows Executable (Recommended)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/scoilcax/HTMLBrowse/total?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fscoilcax%2FHTMLBrowse%2Freleases)
 
