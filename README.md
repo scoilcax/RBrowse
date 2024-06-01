@@ -11,13 +11,13 @@ Lightweight browser written in HTML [Pre Alpha]
 
 ## Build to run on other OS
 
-Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
+1. Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
 
-Open your prefered terminal in the install location and run
+1. Open your prefered terminal in the install location and run
 ```
 git clone https://github.com/scoilcax/HTMLBrowse.git
 
 ```
-Run Electron Fiddle
-Press the keybind
+1. Run Electron Fiddle
+1. Press the keybind
 <kbd>CTRL</kbd><kbd>O</kbd> or <kbd>CMD</kbd><kbd>O</kbd>
