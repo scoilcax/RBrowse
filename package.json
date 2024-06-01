@@ -1,7 +1,7 @@
 {
-  "name": "popular-heart-warm-v24hm",
-  "productName": "popular-heart-warm-v24hm",
-  "description": "My Electron application description",
+  "name": "HTMLBrowse",
+  "productName": "HTMLBrowse",
+  "description": "Lightweight browser written in HTML",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
