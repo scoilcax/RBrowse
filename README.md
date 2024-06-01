@@ -18,6 +18,6 @@ Lightweight browser written in HTML [Pre Alpha]
 git clone https://github.com/scoilcax/HTMLBrowse.git
 
 ```
-1. Run Electron Fiddle
+3. Run Electron Fiddle
 1. Press the keybind
 <kbd>CTRL</kbd><kbd>O</kbd> or <kbd>CMD</kbd><kbd>O</kbd>
