@@ -13,4 +13,11 @@ Mac OS and Linux builds (I would compile them now but as it is early into the pr
 
 Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
 
+Open your prefered terminal in the install location and run
+```
+git clone https://github.com/scoilcax/HTMLBrowse.git
 
+```
+Run Electron Fiddle
+Press the keybind
+<kbd>CTRL</kbd><kbd>O</kbd> or <kbd>CMD</kbd><kbd>O</kbd>
