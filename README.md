@@ -1,5 +1,6 @@
 # HTMLBrowse
 Lightweight browser written in HTML [Pre Alpha]
+![image](https://github.com/scoilcax/HTMLBrowse/assets/102550814/2a2f528b-5397-4f8e-9b79-82954f5e5e55)
 
 ## Feature that need to be added
 - Tabs
@@ -27,3 +28,6 @@ git clone https://github.com/scoilcax/HTMLBrowse.git
 1. Wait for the task to finish
 1. Navigate from the opened directory to  /out/make/#Platform Name/#Platform Type and move the executable file to a directory of your choice as the current directory is in temporary storage
 1. Run the executable file 
+
+
+
