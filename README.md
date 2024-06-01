@@ -9,7 +9,8 @@ Lightweight browser written in HTML [Pre Alpha]
 - Create an icon
 
 ## Windows Executable (Recommended)
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()  
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads-pre/soilcax/HTMLBrowse/latest/total)
+  
 ## Build to run on Mac/Linux/Windows
 1. Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
 
