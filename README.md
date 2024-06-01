@@ -11,5 +11,6 @@ Mac OS and Linux builds (I would compile them now but as it is early into the pr
 
 ## Build to run on other OS
 
-Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads) and [NodeJS](https://nodejs.org/en/download/package-manager)
+Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
+
 
