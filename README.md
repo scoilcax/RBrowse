@@ -9,7 +9,8 @@ Lightweight browser written in HTML [Pre Alpha]
 - Create an icon
 
 ## Windows Executable (Recommended)
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads-pre/soilcax/HTMLBrowse/latest/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/scoilcax/HTMLBrowse/total?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fscoilcax%2FHTMLBrowse%2Freleases)
+
   
 ## Build to run on Mac/Linux/Windows
 1. Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
