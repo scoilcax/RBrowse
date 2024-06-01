@@ -9,7 +9,7 @@ Lightweight browser written in HTML [Pre Alpha]
 - Create an icon
 
 ## Windows Executable (Recommended)
-[Download Latest]()
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat)]()  
 ## Build to run on Mac/Linux/Windows
 1. Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
 
