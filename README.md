@@ -21,4 +21,7 @@ git clone https://github.com/scoilcax/HTMLBrowse.git
 1. Press the keybind
 <kbd>CTRL</kbd><kbd>O</kbd> or <kbd>CMD</kbd><kbd>O</kbd>
 1. Select the project folder
-1. Click  tasks -> Make installers for Fiddle...
+1. Click  Tasks -> Make installers for Fiddle...
+1. Wait for the task to finish
+1. Navigate from the opened directory to  /out/make/#Platform Name/#Platform Type and move the executable file to a directory of your choice as the current directory is in temporary storage
+1. Run the executable file 
