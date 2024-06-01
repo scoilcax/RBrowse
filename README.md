@@ -7,8 +7,9 @@ Lightweight browser written in HTML [Pre Alpha]
 - Saved logins (may be difficult due to the nature of this project)
 - Fix keyboard shortcuts
 - Create an icon
-- Mac OS and Linux builds (I would compile them now but as it is early into the project I dont see this necessary)
 
+## Windows Executable (Recommended)
+[Download Latest]()
 ## Build to run on Mac/Linux/Windows
 1. Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
 
