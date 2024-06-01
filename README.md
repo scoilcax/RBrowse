@@ -1,2 +1,2 @@
 # HTMLBrowse
-Lightweight browser written in HTML [Early Alpha]
+Lightweight browser written in HTML [Pre Alpha]
