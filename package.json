@@ -1,17 +1,13 @@
-
 {
-  "name": "CacBrowse",
-  "productName": "CacBrowse",
+  "name": "RBrowse",
+  "productName": "RBrowse",
   "description": "Chromum based browser written in HTML",
   "keywords": [],
   "main": "./main.js",
-  "version": "Pre Alpha",
+  "version": "0.0.1",
   "author": "Oli",
   "scripts": {
     "start": "electron ."
-  },
-  "dependencies": {
-    "electron-builder": "^24.13.3"
   },
   "devDependencies": {
     "electron": "30.0.2"

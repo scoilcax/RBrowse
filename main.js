@@ -8,6 +8,7 @@ function createWindow () {
     autoHideMenuBar: true,
     width: 800,
     height: 600,
+    icon: path.join(__dirname,'/icon.ico'),
     webPreferences: {
       webviewTag: true
     }
