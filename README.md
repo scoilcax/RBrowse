@@ -13,8 +13,7 @@ Lightweight browser written in HTML
 ## Known Issues
 - Some login pages will not work natively so to bypass this hold shift when clicking a login link to open a new electron window
 
-## Windows Executable (Recommended)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/scoilcax/HTMLBrowse/total?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fscoilcax%2FHTMLBrowse%2Freleases)
+## [Windows Executable (Recommended)](https://github.com/scoilcax/HTMLBrowse/releases)
 
   
 ## Build to run on Mac/Linux/Windows
