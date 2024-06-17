@@ -28,6 +28,7 @@ npm install electron-builder
 Open your prefered terminal in the install location and run
 ```
 git clone https://github.com/scoilcax/RBrowse.git
+cd RBrowse
 ```
 Mac
 ```
