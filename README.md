@@ -11,7 +11,7 @@ Lightweight browser written in HTML
 - Create an icon
 
 ## Known Issues
-- Google login will not work
+- Some login pages will not work natively so to bypass this hold shift when presiing a login link to open a new electron window
 
 ## Windows Executable (Recommended)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/scoilcax/HTMLBrowse/total?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fscoilcax%2FHTMLBrowse%2Freleases)
