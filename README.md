@@ -3,12 +3,12 @@ Lightweight browser written in HTML
 ![image](https://github.com/scoilcax/HTMLBrowse/assets/102550814/2a2f528b-5397-4f8e-9b79-82954f5e5e55)
 [Web Demo](https://scoilcax.github.io/HTMLBrowse/) (Websites will not load)
 
+Only tested in Windows 11 x64
 ## Feature that need to be added
 - Tabs
 - Saved tabs
 - Saved logins (may be difficult due to the nature of this project)
 - Fix keyboard shortcuts
-- Create an icon
 
 ## Known Issues
 - Some login pages will not work natively so to bypass this hold shift when clicking a login link to open a new electron window
