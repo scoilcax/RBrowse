@@ -1,3 +1,4 @@
+![image](https://github.com/scoilcax/HTMLBrowse/assets/102550814/5d54540a-0369-452e-a023-84a2c6d372e2)
 # HTMLBrowse [Pre Alpha]
 Lightweight browser written in HTML 
 ![image](https://github.com/scoilcax/HTMLBrowse/assets/102550814/2a2f528b-5397-4f8e-9b79-82954f5e5e55)
