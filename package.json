@@ -1,7 +1,7 @@
 {
-  "name": "HTMLBrowse",
-  "productName": "HTMLBrowse",
-  "description": "Lightweight browser written in HTML",
+  "name": "HTMLBrowse Forge",
+  "productName": "HTMLBrowse Forge",
+  "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",

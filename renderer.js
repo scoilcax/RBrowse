@@ -5,25 +5,23 @@
  * `contextIsolation` is turned on. Use the contextBridge API in `preload.js`
  * to expose Node.js functionality from the main process.
  */
+// URL Bar
 const URLInput = document.getElementById('url');
 URLInput.addEventListener('keydown', (event) => {
     if (event.key === 'Enter') {
         console.log(URLInput.value);
-        // Perform desired actions here
         document.getElementById('url_src').src = URLInput.value
         document.getElementById('url_src').httpreferrer = URLInput.value
     }})
-URLSource = document.getElementById('url_src');
-URLSource.addEventListener('change', (event) => {
-        console.log(document.getElementById('url_src').src);
-        // Perform desired actions here
-        document.getElementById('url').value = document.getElementById('url_src').src
-    });
+
+// Webview Command Initializer
 const WebView = document.querySelector('webview')
 WebView.addEventListener('dom-ready', () => {
-  WebVIew.openDevTools()
+  
 });
 
+
+// Buttons
 const BackButton = document.getElementById('back_btn');
 BackButton.addEventListener('click', (event) =>{
     console.log("Back")
@@ -35,4 +33,12 @@ FwdButton.addEventListener('click', (event) =>{
     console.log("Forward")
     WebView.goForward()
 });
+
+const DevButton = document.getElementById('dev_btn');
+DDevButton.addEventListener('click', (event) =>{
+    console.log("Open Dev Tools")
+    WebView.openDevTools()
+});
+
+
 
