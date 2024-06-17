@@ -30,7 +30,7 @@ npm install electron-builder
 git clone https://github.com/scoilcax/RBrowse.git
 ```
 2.<br>
-Mac:
+Mac
 ```
 npx electron-builder build -m
 ```
