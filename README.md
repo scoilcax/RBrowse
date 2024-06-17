@@ -2,8 +2,8 @@
 # RBrowse [Pre Alpha]
 Lightweight browser written in HTML 
 ![image](https://github.com/scoilcax/RBrowse/assets/102550814/2a2f528b-5397-4f8e-9b79-82954f5e5e55)
-[Web Demo](https://scoilcax.github.io/RBrowse/) (Websites will not load)
-[Reccomended password manager](https://github.com/saverioscagnoli/spill-the-beans)
+[Web Demo](https://scoilcax.github.io/RBrowse/) (Websites will not load)<br>
+[Reccomended password manager](https://github.com/saverioscagnoli/spill-the-beans)<br>
 Only tested in Windows 11 x64
 ## Feature that need to be added
 - Tabs
