@@ -18,20 +18,29 @@ Lightweight browser written in HTML
 
   
 ## Build to run on Mac/Linux/Windows
-1. Download [Electron Fiddle](https://www.electronjs.org/fiddle#downloads), [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
+1. [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
+1. Run in terminal
+```
+npm install electron-builder
+``` 
 
 1. Open your prefered terminal in the install location and run
 ```
 git clone https://github.com/scoilcax/HTMLBrowse.git
 ```
-3. Run Electron Fiddle
-1. Press the keybind
-<kbd>CTRL</kbd><kbd>O</kbd> or <kbd>CMD</kbd><kbd>O</kbd>
-1. Select the project folder
-1. Click  Tasks -> Make installers for Fiddle...
-1. Wait for the task to finish
-1. Navigate from the opened directory to  /out/make/#Platform Name/#Platform Type and move the executable file to a directory of your choice as the current directory is in temporary storage
-1. Run the executable file 
+4. Mac:
+```
+   electron-builder build -m
+```
+Windows
+```
+   electron-builder build -w
+```
+Linux
+```
+   electron-builder build -l
+```
+
 
 
 
