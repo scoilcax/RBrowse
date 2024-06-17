@@ -18,17 +18,18 @@ Only tested in Windows 11 x64
 
   
 ## Build to run on Mac/Linux/Windows
+# Prerequisites
 1. [NodeJS](https://nodejs.org/en/download/package-manager) and [Git](https://git-scm.com/downloads)
 1. Run in terminal
 ```
 npm install electron-builder
 ``` 
-
-3. Open your prefered terminal in the install location and run
+# Steps
+1. Open your prefered terminal in the install location and run
 ```
 git clone https://github.com/scoilcax/RBrowse.git
 ```
-4.<br>
+2.<br>
 Mac:
 ```
 npx electron-builder build -m
