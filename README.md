@@ -25,11 +25,10 @@ Only tested in Windows 11 x64
 npm install electron-builder
 ``` 
 ## Steps
-1. Open your prefered terminal in the install location and run
+Open your prefered terminal in the install location and run
 ```
 git clone https://github.com/scoilcax/RBrowse.git
 ```
-  2.<br>
 Mac
 ```
 npx electron-builder build -m
