@@ -28,17 +28,18 @@ npm install electron-builder
 ```
 git clone https://github.com/scoilcax/HTMLBrowse.git
 ```
-4. Mac:
+4.
+5. Mac:
 ```
-   electron-builder build -m
+npx electron-builder build -m
 ```
 Windows
 ```
-   electron-builder build -w
+npx electron-builder build -w
 ```
 Linux
 ```
-   electron-builder build -l
+npx electron-builder build -l
 ```
 
 
