@@ -24,12 +24,12 @@ Lightweight browser written in HTML
 npm install electron-builder
 ``` 
 
-1. Open your prefered terminal in the install location and run
+3. Open your prefered terminal in the install location and run
 ```
 git clone https://github.com/scoilcax/HTMLBrowse.git
 ```
-4.
-5. Mac:
+4.<br>
+Mac:
 ```
 npx electron-builder build -m
 ```
